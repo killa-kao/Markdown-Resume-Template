@@ -6,7 +6,7 @@
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：21  
 * 手 机：18391179206 &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&ensp;邮 箱：3115946050@qq.com    
-* 专 业：软件工程        &emsp &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：软件研发工程师
+* 专 业：软件工程        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：软件研发工程师
 
 ## 工作及教育经历
         
@@ -38,7 +38,5 @@
 ## 其他信息 
 * 喜欢钻研技术 等等
 * 性格开朗，喜欢踢足球，乐于助人等等 
-
-> 简历的word版本，可以在我的公众号[代码随想录](https://img-blog.csdnimg.cn/20200815195519696.png)中，后台回复：简历模板，别可获取
 
 
