@@ -6,7 +6,7 @@
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：21  
 * 手 机：18391179206 &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&ensp;邮 箱：3115946050@qq.com    
-* 专 业：软件工程        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：软件研发工程师
+* 专 业： 软件工程  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 岗 位：软件研发工程师
 
 ## 工作及教育经历
         
